@@ -1,0 +1,29 @@
+<!DOCTYPE html> <!-- Add this line at the very top -->
+<html>
+<head>
+    <title>My First Website</title>
+    <meta charset="UTF-8"> <!-- Add character encoding -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #0066cc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <p>This is my first website hosted on GitHub.</p>
+    
+    <h2>What I've Learned</h2>
+    <ul>
+        <li>Basic HTML structure</li>
+        <li>GitHub repository setup</li>
+        <li>Commit changes</li>
+    </ul>
+</body>
+</html>
