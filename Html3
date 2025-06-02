@@ -1,0 +1,15 @@
+ 
+<html>
+<title>
+<link rel="stylesheet" href="style.css">
+</title>
+body {
+    font-family: Arial;
+    text-align: center;
+    margin: 40px;
+}
+h1 {
+    color: #0066cc;
+}
+</body>
+</html>
